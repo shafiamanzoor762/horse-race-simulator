@@ -1,0 +1,90 @@
+Name: PIPPI LONGSTOCKING
+Symbol: ♘
+Distance Travelled: 38
+Fallen: false
+Confidence: 0.6
+
+Name: KOKOMO
+Symbol: ♞
+Distance Travelled: 32
+Fallen: false
+Confidence: 0.5
+
+Name: EL JEFE
+Symbol: ♛
+Distance Travelled: 28
+Fallen: false
+Confidence: 0.4
+
+Name: PIPPI LONGSTOCKING
+Symbol: ♘
+Distance Travelled: 38
+Fallen: false
+Confidence: 0.6
+
+Name: KOKOMO
+Symbol: ♞
+Distance Travelled: 32
+Fallen: false
+Confidence: 0.5
+
+Name: EL JEFE
+Symbol: ♛
+Distance Travelled: 28
+Fallen: false
+Confidence: 0.4
+
+Name: PIPPI LONGSTOCKING
+Symbol: ♘
+Distance Travelled: 38
+Fallen: false
+Confidence: 0.6
+
+Name: KOKOMO
+Symbol: ♞
+Distance Travelled: 32
+Fallen: false
+Confidence: 0.5
+
+Name: EL JEFE
+Symbol: ♛
+Distance Travelled: 28
+Fallen: false
+Confidence: 0.4
+
+Name: KIKI
+Symbol: ✨
+Distance Travelled: 50
+Fallen: false
+Confidence: 0.8
+
+Name: KOKOMO
+Symbol: ♞
+Distance Travelled: 39
+Fallen: false
+Confidence: 0.6
+
+Name: EL JEFE
+Symbol: ♛
+Distance Travelled: 36
+Fallen: false
+Confidence: 0.4
+
+Name: PIPPI LONGSTOCKING
+Symbol: ♘
+Distance Travelled: 38
+Fallen: false
+Confidence: 0.6
+
+Name: KOKOMO
+Symbol: ♞
+Distance Travelled: 32
+Fallen: false
+Confidence: 0.5
+
+Name: EL JEFE
+Symbol: ♛
+Distance Travelled: 28
+Fallen: false
+Confidence: 0.4
+
